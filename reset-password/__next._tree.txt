@@ -1,0 +1,4 @@
+:HL["/font_agenda26/_next/static/chunks/44sz4l6o-uh3t.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"reset-password","h":96,"c":"$Q2"}]]
+0:{"b":"MkWEPzHtvpbsx5a8FnBvl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

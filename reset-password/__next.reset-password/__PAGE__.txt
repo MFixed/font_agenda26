@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/font_agenda26/_next/static/chunks/3t8kywgy_pl7_.js"
+3:I[97535,["$2"],"ProveedorSesion"]
+4:I[26740,["$2"],"ProveedorAvisos"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+7:"/font_agenda26/_next/static/chunks/0m9cbkj6oan51.js"
+8:"/font_agenda26/_next/static/chunks/1aa17o2c4vc2_.js"
+9:I[7706,["$2","$7","$8"],"NoEncontrada"]
+10:"$Sreact.suspense"
+11:I[87337,["$2","$8"],"Esqueleto"]
+12:"FormularioResetPassword"
+13:I[54962,["$2","$8"],"$12"]
+14:I[97367,["$2"],"OutletBoundary"]
+17:"ViewportBoundary"
+18:I[97367,["$2"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+:HL["/font_agenda26/_next/static/chunks/44sz4l6o-uh3t.css","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$10",null,{"fallback":["$","div",null,{"className":"auth-page","children":["$","main",null,{"className":"auth-shell","children":["$","div",null,{"className":"auth-card","children":[["$","div",null,{"className":"skeleton skeleton-line","style":{"height":26,"width":"60%","marginBottom":16}}],["$","$L11",null,{"cuantas":3,"clase":"skeleton-line"}]]}]}]}],"children":["$","$L13",null,{}]}],[["$","script","script-0",{"src":"/font_agenda26/_next/static/chunks/1aa17o2c4vc2_.js","async":true}]],["$","$L14",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$b"}}]]
+c:[["children",{"s":"reset-password","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/font_agenda26/_next/static/chunks/44sz4l6o-uh3t.css","precedence":"next"}],["$","script","script-0",{"src":"/font_agenda26/_next/static/chunks/3t8kywgy_pl7_.js","async":true}]],["$","html",null,{"lang":"es","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var t = localStorage.getItem('agenda26_tema') || 'auto';\n    if (t !== 'auto') document.documentElement.setAttribute('data-theme', t);\n  } catch (e) {\n    /* Modo privado sin localStorage: se queda el tema del sistema. */\n  }\n})();\n"}}]}],["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","$L9",null,{}],[]]}]}]}]}]]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2f57d4","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0d131d","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Poner nueva contrasena · Agenda26"}],["$","meta","1",{"name":"description","content":"Reserva de citas, tareas y fichas de cliente para negocios de servicios. Panel de administración y panel del cliente."}],["$","meta","2",{"name":"application-name","content":"Agenda26"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$b"}},"a":"$@1c","u":"$@1d","b":"MkWEPzHtvpbsx5a8FnBvl"}
+15:null
+b:300
+1d:true
+b:C
+1c:0
+d:"$undefined"
+a:"$undefined"
+1b:"$undefined"
+16:"$undefined"

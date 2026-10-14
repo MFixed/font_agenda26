@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/font_agenda26/_next/static/chunks/3t8kywgy_pl7_.js"
+3:I[97535,["$2"],"ProveedorSesion"]
+4:I[26740,["$2"],"ProveedorAvisos"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+7:"/font_agenda26/_next/static/chunks/0m9cbkj6oan51.js"
+8:"/font_agenda26/_next/static/chunks/1aa17o2c4vc2_.js"
+9:I[7706,["$2","$7","$8"],"NoEncontrada"]
+b:"ClientSegmentRoot"
+c:I[92825,["$2"],"$b"]
+d:"/font_agenda26/_next/static/chunks/3awqx6a436eqe.js"
+e:I[9071,["$2","$d"],"default"]
+13:"$Sreact.suspense"
+14:"/font_agenda26/_next/static/chunks/3ydkmm1qnxb32.js"
+15:I[87337,["$2","$d","$14"],"Esqueleto"]
+16:I[72896,["$2","$d","$14"],"EquipoAdmin"]
+17:I[97367,["$2"],"OutletBoundary"]
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1c:"MetadataBoundary"
+1d:I[97367,["$2"],"$1c"]
+1f:I[68027,["$2"],"default",1]
+:HL["/font_agenda26/_next/static/chunks/44sz4l6o-uh3t.css","style"]
+11:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$13",null,{"fallback":["$","div",null,{"className":"auth-page","children":["$","main",null,{"className":"auth-shell","children":["$","div",null,{"className":"auth-card","children":[["$","div",null,{"className":"skeleton skeleton-line","style":{"height":26,"width":"60%","marginBottom":16}}],["$","$L15",null,{"cuantas":3,"clase":"skeleton-line"}]]}]}]}],"children":["$","$L16",null,{}]}],[["$","script","script-0",{"src":"/font_agenda26/_next/static/chunks/3ydkmm1qnxb32.js","async":true,"nonce":"$undefined"}]],["$","$L17",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+10:[["children",{"s":"equipo","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$11"},"c":"$Q12"}]]
+a:[["children",{"s":"admin","h":512,"d":{"r":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/font_agenda26/_next/static/chunks/3awqx6a436eqe.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"Component":"$e","slots":{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@f"]}}]]}],"p":false,"v":null},"c":"$Q10"}]]
+0:{"P":null,"c":["","admin","equipo",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/font_agenda26/_next/static/chunks/44sz4l6o-uh3t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/font_agenda26/_next/static/chunks/3t8kywgy_pl7_.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"es","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n(function () {\n  try {\n    var t = localStorage.getItem('agenda26_tema') || 'auto';\n    if (t !== 'auto') document.documentElement.setAttribute('data-theme', t);\n  } catch (e) {\n    /* Modo privado sin localStorage: se queda el tema del sistema. */\n  }\n})();\n"}}]}],["$","body",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L9",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}]]}],"p":false,"v":null},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/font_agenda26/_next/static/chunks/44sz4l6o-uh3t.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"MkWEPzHtvpbsx5a8FnBvl"}
+11:C
+f:"$a:0:1:d:r:props:children:1:props:serverProvidedParams:params"
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#2f57d4","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0d131d","media":"(prefers-color-scheme: dark)"}]]
+18:null
+1e:[["$","title","0",{"children":"Equipo · Administracion · Agenda26"}],["$","meta","1",{"name":"description","content":"Reserva de citas, tareas y fichas de cliente para negocios de servicios. Panel de administración y panel del cliente."}],["$","meta","2",{"name":"application-name","content":"Agenda26"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}]]
